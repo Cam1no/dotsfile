@@ -53,6 +53,7 @@ cask "vagrant"
 cask "virtualbox"
 mas "1Password 7", id: 1333542190
 mas "Keynote", id: 409183694
+mas "Kindle", id: 405399194
 mas "LINE", id: 539883307
 mas "Magnet", id: 441258766
 mas "Skitch", id: 425955336
